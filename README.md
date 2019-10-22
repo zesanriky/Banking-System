@@ -11,7 +11,7 @@ Command line input or a solution as a web service.
 
 ### Installing
 
-What things you need to install the software and how to install them
+What softwares you need to install the 
 
 ```
 
