@@ -5,13 +5,12 @@ Savings Account for a Banking System
 ## Description of the project
 
 A program with Java is to be created with which it is possible to create savings accounts. One should
-Deposit money on these savings accounts and withdraw again. In addition, it should be possible
-be to transfer money from one savings account to another savings account. Please note that only as much money can be transferred or withdrawn as currently available on the account is - the account may not be overdrawn.The solution should follow the principles of object-oriented programming.The choice of user interaction is free, possible, for example, a graphical user interface,
-Command line input or a solution as a web service.
+Deposit money on these savings accounts and withdraw again. Besides, it should be possible
+be to transfer money from one savings account to another savings account. Please note that only as much money can be transferred or withdrawn as currently available on the account is - the account may not be overdrawn. The solution should follow the principles of object-oriented programming. The choice of user interaction is free, possible, for example, a graphical user interface, Command line input or a solution as a web service.
 
 ### Installing
 
-What softwares you need to install
+What software you need to install
 
 ```
 
@@ -40,7 +39,7 @@ Copy and paste the whole in that file. Then build it with your IDE or console.
 
 * **Option 4** is for showing the last transaction for a specific account
 
-* **Option 5** will work only, if two different accounts are created with invidual account names. Then the one account holder needs to login with own account number and password, then the account holder can transer a specific amount of money depending on the balance to another account by inputtig only the receivers account number. After that you can choose option 4 to test the balance of both accounts.      
+* **Option 5** will work only if two different accounts are created with individual account names. Then the one account holder needs to login with your account number and password, then the account holder can transfer a specific amount of money depending on the balance to another account by inputting only the receivers' account number. After that, you can choose option 4 to test the balance of both accounts.      
 
 * **Option 6** will log you out of the program.
 
@@ -56,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* The German Company endgram inspired me to do this banking project
+* The German Company **endgram**  inspired me to do this banking project
