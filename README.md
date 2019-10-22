@@ -41,7 +41,7 @@ Then build it with your IDE or console.
 
 * Option 4 is for showing the last transaction for a specific account
 
-* Option 5 will work only, if two different accounts are created with invidual account names. Then the one account holder needs to login with own account number and password, then the account holder can transer a specific amount of money depending on the balance to another account by inputtig only the receivers account number. After that you can choose option 4 test the balance of both accounts.      
+* Option 5 will work only, if two different accounts are created with invidual account names. Then the one account holder needs to login with own account number and password, then the account holder can transer a specific amount of money depending on the balance to another account by inputtig only the receivers account number. After that you can choose option 4 to test the balance of both accounts.      
 
 * Option 6 will log you out of the program.
 
