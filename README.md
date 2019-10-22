@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* The German endgram inspired me to do this banking project
+* The German Company endgram inspired me to do this banking project
