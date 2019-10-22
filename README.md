@@ -23,7 +23,7 @@ Java 8
 
 ## Hoe to run this project
 
-Creating a class called 
+Creating a class file called 
 
 ```
 
