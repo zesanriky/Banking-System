@@ -33,17 +33,17 @@ SavingsAccount.java
 
 Then build it with your IDE or console. 
 
-* Option 1 will give the scope to create an account with username and password, you can also add some money while opening but not mandatory
+* **Option 1** will give the scope to create an account with username and password, you can also add some money while opening but not mandatory
  
-* Option 2 is for depositing money if any accounts exist only
+* **Option 2** is for depositing money if any accounts exist only
 
-* Option 3 is for withdrawing money from the bank account if any accounts and adequate money exist only
+* **Option 3** is for withdrawing money from the bank account if any accounts and adequate money exist only
 
-* Option 4 is for showing the last transaction for a specific account
+* **Option 4** is for showing the last transaction for a specific account
 
-* Option 5 will work only, if two different accounts are created with invidual account names. Then the one account holder needs to login with own account number and password, then the account holder can transer a specific amount of money depending on the balance to another account by inputtig only the receivers account number. After that you can choose option 4 to test the balance of both accounts.      
+* **Option 5** will work only, if two different accounts are created with invidual account names. Then the one account holder needs to login with own account number and password, then the account holder can transer a specific amount of money depending on the balance to another account by inputtig only the receivers account number. After that you can choose option 4 to test the balance of both accounts.      
 
-* Option 6 will log you out of the program.
+* **Option 6** will log you out of the program.
 
 
 ## Authors
