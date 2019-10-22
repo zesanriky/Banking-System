@@ -21,7 +21,7 @@ Java 8
 
 ```
 
-## Hoe to run this project
+## How to run this project
 
 Creating a class file called 
 
@@ -30,8 +30,7 @@ Creating a class file called
 SavingsAccount.java
 
 ```
-
-Then build it with your IDE or console. 
+Copy and paste the whole in that file. Then build it with your IDE or console. 
 
 * **Option 1** will give the scope to create an account with username and password, you can also add some money while opening but not mandatory
  
