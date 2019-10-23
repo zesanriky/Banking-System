@@ -29,7 +29,7 @@ Creating a class file called
 SavingsAccount.java
 
 ```
-Copy and paste the whole in that file. Then build it with your IDE or console. 
+Copy and paste the whole code in that class file. Then build it with your IDE or console. 
 
 * **Option 1** will give the scope to create an account with username and password, you can also add some money while opening but not mandatory
  
