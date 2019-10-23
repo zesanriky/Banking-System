@@ -39,7 +39,7 @@ Copy and paste the whole in that file. Then build it with your IDE or console.
 
 * **Option 4** is for showing the last transaction for a specific account
 
-* **Option 5** will work only if two different accounts are created with individual account names. Then the one account holder needs to login with your account number and password, then the account holder can transfer a specific amount of money depending on the balance to another account by inputting only the receivers' account number. After that, you can choose option 4 to test the balance of both accounts.      
+* **Option 5** will work only if two different accounts are created with individual account names. Then the one account holder needs to login with his/her account number and password, then the account holder can transfer a specific amount of money depending on the balance to another account by inputting only the receivers' account number. After that, you can choose option 4 to test the balance of both accounts.      
 
 * **Option 6** will log you out of the program.
 
