@@ -16,7 +16,7 @@ What software you need to install
 
 Eclipes 
 
-Java 8
+Java 8 or higher
 
 ```
 
